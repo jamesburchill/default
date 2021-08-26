@@ -1,6 +1,8 @@
 - Hi, I’m James C. Burchill
 - Contact me via: https://jcb.dev
-- Sr. Software Developer & Database Analyst 
+- Bestselling author, creator & instructor
+- Solves problems with software • Database & automation expert
+
 
 <!---
 jamesburchill/jamesburchill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
