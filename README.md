@@ -1,8 +1,8 @@
 - Hi, I’m James C. Burchill 👋
 - I've been writing software since I was in high school
 - I've authored books and courses with many becoming bestsellers
-- I was born in England, lived in Africa, Australia and now in Canada
-- You can discover more at https://jcb.dev and email me there too (if you like)
+- I was born in England, lived in Africa, Australia and now live in Canada
+- https://jcb.dev is the main hub for my links, details and getting in touch with me
 
 
 <!---
